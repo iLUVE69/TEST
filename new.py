@@ -23,5 +23,4 @@ for i in range(n):
     arr.append(num)
 target = 5
 arr = sort_array(arr)
-result = binary_search(arr, target)
-print(result)
+print(arr)
